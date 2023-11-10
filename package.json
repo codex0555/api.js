@@ -1,9 +1,13 @@
 {
-  "name": "api",
+  "name": "api.js",
   "version": "1.0.0",
   "description": "",
   "main": "its_api.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
+    "start": "node its_api.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
